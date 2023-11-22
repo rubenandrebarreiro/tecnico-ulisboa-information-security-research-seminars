@@ -88,16 +88,16 @@ git clone git@github.com:rubenandrebarreiro/tecnico-ulisboa-information-security
 * [**_JetBrains CLion_**](https://www.jetbrains.com/clion/)
 
 ## Contributors
-> [Hervé Miguel Paulino (Professor)](https://docentes.fct.unl.pt/p161/)
+> [Paulo Alexandre Mateus (Professor)](https://fenix.tecnico.ulisboa.pt/homepage/ist13783)
 
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
 
 ## Contacts
 
-### Hervé Miguel Paulino
+### Paulo Alexandre Mateus
 #### E-mails
-* [herve.paulino@fct.unl.pt](mailto:herve.paulino@fct.unl.pt)
+* [paulo.mateus@tecnico.ulisboa.pt](mailto:paulo.mateus@tecnico.ulisboa.pt)
 
 ### Rúben André Barreiro
 #### E-mails
